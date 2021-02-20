@@ -1,7 +1,7 @@
 # Password-Generator
 Password-Generator
 - The application provides a user with a password.
-- The user has to choose a password between 8 and 128 characters.
+- The user is prompted to choose a password length between 8 and 128 characters.
 - The user is then given a choice if they want lowercase letters, uppercase letters, numbers, and/or special characters.
 - Based on the user's preferences, a password is generated 
 - [Link to application](https://joesmall37.github.io/Password-Generator/)
