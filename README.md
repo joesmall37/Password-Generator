@@ -14,3 +14,6 @@ Password-Generator
   - HTML
   - CSS
   - Javascript
+
+## License
+  - MIT
